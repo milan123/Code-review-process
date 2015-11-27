@@ -11,10 +11,10 @@ public class ArrayCopyExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-//		List<String> l1 = new ArrayList<String>();
-//		l1.add("Hello");
-//		l1.add("World");
-//		List<String> l2 = new ArrayList<String>(l1); //A new arrayList.
+	List<String> l1 = new ArrayList<String>();
+		l1.add("Hello");
+		l1.add("World");
+		List<String> l2 = new ArrayList<String>(l1); //A new arrayList.
 //
 //		Collections.copy(l2, l1);
 //		System.out.println(l1);
